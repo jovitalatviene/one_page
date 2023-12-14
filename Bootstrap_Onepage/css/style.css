@@ -1,0 +1,46 @@
+.navbar-brand{
+    margin-right: 200px;
+    color: rgb(102, 102, 227);
+}
+
+.nav-item{
+    margin: 0 20px;
+}
+
+.navbar-nav .nav-link.active{
+    color: rgb(86, 86, 232);
+}
+
+.nav-link.disabled{
+    color: rgb(99, 95, 95);
+}
+
+section{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+h2{
+    font-size: 42pt;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(44, 44, 136);
+}
+
+p{
+    font-size: 14pt;
+}
+
+.row{
+    justify-content: space-between;
+}
+.col-sm-3{
+    width: 23%;
+    height: 250px;
+    padding: 40px;
+    justify-content: space-around;
+    box-shadow: 10px 10px 5px rgb(230, 243, 247);
+}
+h4{
+    color: rgb(38, 38, 136);
+}
